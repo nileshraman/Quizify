@@ -1,7 +1,7 @@
 # Quizfy
 Quizfy is quiz app that is made using react js. It is fully functional and dynamic react app. This interactive quiz application offers a user-friendly interface for a seamless experience. With a variety of functionalities, users can select from different categories, levels of difficulty, and take timed quizzes with real-time progress tracking.
 
-Our Quiz App is perfect for anyone who loves testing their knowledge or wants to challenge themselves to learn something new. At the end of each quiz, users can view their results and see which questions they got right or wrong, as well as their overall score. Try out my Quizfy today  and test your knowledge while having fun!!
+Quzify is perfect for anyone who loves testing their knowledge or wants to challenge themselves to learn something new. At the end of each quiz, users can view their results and see which questions they got right or wrong, as well as their overall score. Try out my Quizfy today  and test your knowledge while having fun!!
 
 
 # 1. Landing page:
