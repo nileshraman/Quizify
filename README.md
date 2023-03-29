@@ -1,5 +1,5 @@
 # Quizfy
-Quizfy is quiz app that is made using react js 
+Quizfy is quiz app that is made using react js. It is fully functional and dynamic react app.
 
 1.Landing page:
 
